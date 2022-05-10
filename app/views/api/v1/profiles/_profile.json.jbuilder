@@ -1,0 +1,1 @@
+json.extract! todo_item, :id, :phonenumber, :partnercode, :firstname, :midname, :lastname, :unitnumber, :address, :state, :city, :birth, :zipcode, :ssnortin, :sex, :user_id,
